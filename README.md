@@ -1,10 +1,10 @@
 # Análise Experimental de Algoritmos no Problema do Caixeiro Viajante (TSP)
 
-Este repositório contém o projeto prático desenvolvido para a disciplina de Análise de Algoritmos do Programa de Pós-graduação em Computação Aplicada. O objetivo central é analisar o comportamento de diferentes abordagens algorítmicas ao lidarem com o Problema do Caixeiro Viajante (TSP), avaliando o impacto da explosão combinatória em instâncias reais de mapeamento geográfico.O trabalho consiste em projetar, implementar e avaliar empiricamente o trade-off entre o tempo de execução (eficiência computacional) e a qualidade da solução (distância total da rota) através de testes práticos com tamanhos de entrada ($N$) crescentes, utilizando como estudo de caso os pontos turísticos do município de Veranópolis (RS).
+Este repositório contém o projeto prático desenvolvido para a disciplina de Análise de Algoritmos do Programa de Pós-graduação em Computação Aplicada. O objetivo central é analisar o comportamento de diferentes abordagens algorítmicas ao lidarem com o Problema do Caixeiro Viajante (TSP), avaliando o impacto da explosão combinatória em instâncias reais de mapeamento geográfico. O trabalho consiste em projetar, implementar e avaliar empiricamente o trade-off entre o tempo de execução (eficiência computacional) e a qualidade da solução (distância total da rota) através de testes práticos com tamanhos de entrada ($N$) crescentes, utilizando como estudo de caso os pontos turísticos do município de Veranópolis (RS).
 
 🎯 **O Problema de Otimização**
 
-O Problema do Caixeiro Viajante consiste em encontrar a rota mais curta (ciclo hamiltoniano de custo mínimo) que visita um conjunto de $N$ localidades exatamente uma vez e retorna à coordenada de origem.Como encontrar a solução ótima global pertence à classe NP-difícil, este repositório explora e compara a viabilidade prática de uma abordagem exata clássica frente a uma alternativa heurística de tempo polinomial.
+O Problema do Caixeiro Viajante consiste em encontrar a rota mais curta (ciclo hamiltoniano de custo mínimo) que visita um conjunto de $N$ localidades exatamente uma vez e retorna à coordenada de origem. Como encontrar a solução ótima global pertence à classe NP-difícil, este repositório explora e compara a viabilidade prática de uma abordagem exata clássica frente a uma alternativa heurística de tempo polinomial.
 
 🔬 **Algoritmos Implementados e Comparados**
 
