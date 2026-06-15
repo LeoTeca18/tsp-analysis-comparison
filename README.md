@@ -59,12 +59,16 @@ Execute as células sequencialmente para visualizar o cálculo de rotas no mapa 
 [1] D. L. Applegate, R. E. Bixby, V. Chvátal, W. J. Cook, The traveling
 salesman problem: a computational study, in: The traveling salesman
 problem, Princeton university press, 2011.
+
 [2] G. Gutin, A. P. Punnen, The traveling salesman problem and its
 variations, Vol. 12, Springer Science & Business Media, 2006.
+
 [3] A. P. Picolo, R. S. da Silva, Aplicação do problema do caixeiro viajante
 para determinação de rotas turísticas (2021).
+
 [4] T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein, Introduction to
 algorithms (3-rd edition), MIT Press and McGraw-Hill (2009).
+
 [5] D. J. Rosenkrantz, R. E. Stearns, P. M. Lewis, II, An analysis of
 several heuristics for the traveling salesman problem, SIAM journal
 on computing 6 (3) (1977) 563–581.
